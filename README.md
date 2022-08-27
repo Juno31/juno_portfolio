@@ -1,2 +1,1 @@
-# juno_portfolio
-The very first portfolio website
+### Hello, welcome to my very first portfolio website
